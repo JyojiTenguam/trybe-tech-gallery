@@ -10,3 +10,7 @@
 .text-section {
   display: flex;
 }
+
+.gallery {
+  display: flex;
+}
