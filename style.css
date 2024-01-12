@@ -14,3 +14,7 @@
 .gallery {
   display: flex;
 }
+
+.footer-container {
+  display: flex;
+}
